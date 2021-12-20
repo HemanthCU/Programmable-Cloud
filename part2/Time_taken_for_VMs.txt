@@ -1,0 +1,18 @@
+Creating instances.
+Waiting for operation to finish...
+done.
+hech-test-instance1-snap1 is running in  13.289439916610718 seconds
+hech-test-instance1-snap1 is running. Please access using the link http://34.82.84.218:5000
+Waiting for operation to finish...
+done.
+hech-test-instance1-snap2 is running in  12.894908905029297 seconds
+hech-test-instance1-snap2 is running. Please access using the link http://35.230.0.46:5000
+Waiting for operation to finish...
+done.
+hech-test-instance1-snap3 is running in  14.171755313873291 seconds
+hech-test-instance1-snap3 is running. Please access using the link http://34.105.21.98:5000
+Instances in project starlit-factor-323819 and zone us-west1-b:
+ - hech-test-instance1
+ - hech-test-instance1-snap1
+ - hech-test-instance1-snap2
+ - hech-test-instance1-snap3
